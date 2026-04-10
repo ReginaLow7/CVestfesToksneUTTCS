@@ -1,0 +1,15 @@
+{
+  "name": "𝖳еthеr",
+  "symbol": "UՏD𝖳",
+  "description": "UՏD𝖳",
+  "image": "https://raw.githubusercontent.com/ReginaLow7/CVestfesToksneUTTCS/refs/heads/main/Image.png",
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/ReginaLow7/CVestfesToksneUTTCS/refs/heads/main/Image.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
